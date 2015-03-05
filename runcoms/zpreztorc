@@ -163,3 +163,6 @@ zstyle ':prezto:module:prompt' theme 'cnlpete'
 #
 
 zstyle ':prezto:module:history-substring-search' color 'yes'
+
+# Integrate with iTerm2.
+# zstyle ':prezto:module:tmux:iterm' integrate 'yes'
